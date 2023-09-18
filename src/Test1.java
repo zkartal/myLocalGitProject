@@ -4,6 +4,7 @@ public class Test1 {
         System.out.println("Test1");
 
         System.out.println("Added Locally!!!");
+        System.out.println("Added Locally pushed with Git Menu");
 
     }
 }
