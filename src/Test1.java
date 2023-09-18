@@ -5,6 +5,7 @@ public class Test1 {
 
         System.out.println("Added Locally!!!");
         System.out.println("Added Locally pushed with Git Menu");
+        // Burasi remote Repoda Github a eklendi!!!
 
     }
 }
