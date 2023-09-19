@@ -7,5 +7,8 @@ public class Homework1 {
         System.out.println("Local'de Yeni bir Class olusturuldu");
 
         // Homework1 yeni branchda updated edildi
+        // Branchta yeni satir eklendi
+
+
     }
 }
