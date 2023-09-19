@@ -7,5 +7,7 @@ public class Homework {
         System.out.println("Homework Project Added Locally !!!");
         System.out.println("Added Locally pushed with Git Menu!!!");
         // "Remote Repoda Github'a eklendi!!!"
+
+        // Yeni branch da bu satir eklendi(Homework-Test)
     }
 }
