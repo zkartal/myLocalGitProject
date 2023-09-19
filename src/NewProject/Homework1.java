@@ -5,6 +5,7 @@ public class Homework1 {
 
         System.out.println("Local'de Yeni bir Class olusturuldu");
 
-        // Github'da Projeye eklemeler oldu
+        // Github'da Projeye eklemeler oldu!!!
+        
     }
 }
