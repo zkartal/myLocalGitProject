@@ -9,5 +9,7 @@ public class Homework {
         // "Remote Repoda Github'a eklendi!!!"
 
         // Yeni branch da bu satir eklendi(Homework-Test)
+
+        // Homework1 yeni branchda updated edildi
     }
 }
