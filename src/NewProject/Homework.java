@@ -6,5 +6,6 @@ public class Homework {
         System.out.println("Talha Hocanin ilk Ödevi");
         System.out.println("Homework Project Added Locally !!!");
         System.out.println("Added Locally pushed with Git Menu!!!");
+        // "Remote Repoda Github'a eklendi!!!"
     }
 }
