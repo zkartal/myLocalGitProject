@@ -7,6 +7,7 @@ public class Homework1 {
 
         // Homework1 yeni branchda updated edildi
         // yeni satir
+        // gitHubda yeni eklemeler oldu
 
     }
 }
